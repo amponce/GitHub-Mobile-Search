@@ -1,10 +1,10 @@
-# GitHub-Mobile-Search
+# React-GitHub-Mobile-Search
 IOS and Android Mobile Repo Search Tool, Tutorial found on Scotch.io credit (GeekyAnts) 
 
-React Github Mobile Search 
+###### React Github Mobile Search 
 https://scotch.io/tutorials/nativebase-the-missing-piece-of-react-native%E2%80%8B
 
-Getting Started
+###### Getting Started
 
 First make sure you have your React Native Dependencies
 
